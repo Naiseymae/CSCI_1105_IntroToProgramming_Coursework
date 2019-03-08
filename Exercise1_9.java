@@ -1,7 +1,12 @@
+package CSCI_1105;
 
 public class Exercise1_9 {
 
-	// Programming Exercise 1-9
+	/*Author: Renee Linford
+		  Date: 3/7/19 
+		  This is Chapter 1 Exercise 1-9
+		 */
+		
 	public static void main(String[] args) {
 		
 		System.out.println("Width = 4.5");

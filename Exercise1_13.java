@@ -1,7 +1,12 @@
+package CSCI_1105;
 
 public class Exercise1_13 {
 
-	// Programming Exercise 1-13
+	/*Author: Renee Linford
+		  Date: 3/7/19 
+		  This is Chapter 1 Exercise 1-13
+		 */
+		
 	public static void main(String[] args) {
 		System.out.println("3.4x + 50.2y = 44.5");
 		System.out.println("2.1x + 0.55y = 5.9");
