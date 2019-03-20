@@ -1,4 +1,3 @@
-package chapter3;
 
 /*Author: Renee Linford
  * Date: 3/18/19
