@@ -30,7 +30,7 @@ public class Exercise_7_23 {
 		System.out.println("Open lockers are: ");
 		for (int i = 0; i < 100; i++) {
 			if (hallway[i]) { // If locker at index "i" is open (true) print value.
-				System.out.print(i + " ");
+				System.out.print((i + 1) + " ");
 			}
 		}
 	
