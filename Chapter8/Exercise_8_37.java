@@ -50,7 +50,7 @@ public class Exercise_8_37 {
 		if (guessLC.equals(capital)) {// If a match, output is "Correct."
 			System.out.print("Correct!");
 		}
-		else { // If not a match, output is "Correct."
+		else { // If not a match, output is "Incorrect."
 			System.out.print("Incorrect.");
 		}
 	
